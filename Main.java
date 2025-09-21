@@ -2,13 +2,13 @@ public class Main {
     public static void main(String[] args) {
         Customer c = new Customer();
         c.setCustomerId(1);
-        c.setName("John Doe");
-        c.setAddress("123 Main St");
-        c.setPhoneNo("089-123-4567");
+        c.setName("Namo Mangkud");
+        c.setAddress("12345 Main St");
+        c.setPhoneNo("088-888-8888");
 
         Salesperson sp = new Salesperson();
         sp.setEmployeeId(101);
-        sp.setName("Alice");
+        sp.setName("TT");
 
         Vehicle v = new Vehicle();
         v.setSerialNumber("V1001");
